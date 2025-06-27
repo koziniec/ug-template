@@ -35,15 +35,15 @@ This unit enables you to demonstrate your achievement of the following unit lear
 
 ### 1.3 Graduate attributes 
 This unit will contribute to the development of the following Graduate Attributes:
-    • Communication
-    • Critical and creative thinking
-    • Social interaction
-    • Independent and lifelong learning
-    • Ethics
-    • Social justice
-    • Global perspective
-    • Interdisciplinarity
-    • In-depth knowledge of a field of study
+- Communication
+- Critical and creative thinking
+- Social interaction
+- Independent and lifelong learning
+- Ethics
+- Social justice
+- Global perspective
+- Interdisciplinarity
+- In-depth knowledge of a field of study
     
 ### 1.4 Strategic themes
 As an institution, the strategic themes of sustainability, equity, diversity & inclusion, and first nations guide and shape much of our activity.
