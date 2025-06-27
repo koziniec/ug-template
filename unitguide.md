@@ -263,25 +263,25 @@ Other resources and further recommended resources are in our myMurdoch Learning.
 Need guidance on study related issues?
 Use this flowchart or seek direct assistance from Student Support Services or MyMurdochAdvice.
 
-Contact your Tutor if you have:
+Contact your **Tutor** if you have:
 - Questions about content covered in tutorials or practical sessions. 
 - General questions about completing assessments.
 - Concerns about another student or your learning needs.
 - Positive and constructive feedback.
 
-Contact your Unit Coordinator if you have:
+Contact your **Unit Coordinator** if you have:
 - Questions about unit content, assessments, attendance or tutorial times. 
 - Questions on marked assessments. 
 - Request a re-mark/review of a marked assessment.
 - Academic issues with your learning in this unit.
 - Positive and constructive feedback.
 
-Contact your Academic Chair if you have:
+Contact your **Academic Chair** if you have:
 - Academic and assessment issues that haven’t been adequately addressed by the Unit Coordinator. 
 - Academic issues relating to progression through your degree, withdrawal from a unit or intermission.
 - Positive and constructive feedback.
 
-Contact your Head of School if you have:
+Contact your **Head of School** if you have:
 - Academic, assessment or other issues that haven’t been adequately addressed by your academic chair or you aren’t comfortable discussing with your Academic Chair.
 - Formal request for re-mark/review in accordance with policy and procedure, where Unit Coordinator has not undertaken.
 - Complaints or appeals relating to your studies that haven’t been adequately addressed. Visit Complaints and Appeals for more advice.
