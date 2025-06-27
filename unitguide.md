@@ -129,7 +129,8 @@ Previous students have provided us with feedback to improve this unit. Please he
 #### 3.2.1 #
 
 ## 4 Unit Schedule
-See [myMurdoch Learning](https://goto.murdoch.edu.au/LMS) for details of all learning activities and assessments. Go to [TeachingTimetables](http://goto.murdoch.edu.au/TeachingTimetables) or [myCalendar](https://goto.murdoch.edu.au/PersonalCalendar) to see your scheduled class times. 
+See [myMurdoch Learning](https://goto.murdoch.edu.au/LMS) for details of all learning activities and assessments. Go to [TeachingTimetables](http://goto.murdoch.edu.au/TeachingTimetables) or [myCalendar](https://goto.murdoch.edu.au/PersonalCalendar) to see your scheduled class times.
+
 Timetable specifics subject to change. You will be notified of changes by the Teaching Team.
 
 
