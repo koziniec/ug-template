@@ -59,9 +59,9 @@ For individual needs, consult with [Access and Inclusion](https://goto.murdoch.e
 #### 1.5.3 Where to get help for your learning success and wellbeing
 Please refer to [Support & Advice](https://www.murdoch.edu.au/mymurdoch/support-advice) via [myMurdoch](https://www.murdoch.edu.au/mymurdoch) for all the information you need for your studies.
 This includes:
-    • Student admin, Exams, Policies, Key dates, Complaints and appeals
-    • Learning and study support, including information about Academic Integrity and Murdoch Academic Passport
-    • Health and wellbeing information, including Accessibility services, Medical and counselling services, Aboriginal and Torres Strait Islander support, and Sexuality and gender diversity support
+- [Student admin](https://goto.murdoch.edu.au/StudentAdmin), [Exams](https://goto.murdoch.edu.au/Examinations), [Policies](https://goto.murdoch.edu.au/Policies), [Key dates](https://goto.murdoch.edu.au/DatesDeadlines), [Complaints and appeals](https://goto.murdoch.edu.au/ComplaintsAppeals)
+- [Learning and study](https://goto.murdoch.edu.au/learningstudy) support, including information about Academic Integrity and Murdoch Academic Passport
+- [Health and wellbeing](https://www.murdoch.edu.au/mymurdoch/support-advice/health-wellbeing) information, including Accessibility services, Medical and counselling services, Aboriginal and Torres Strait Islander support, and Sexuality and gender diversity support
         ◦ Contact Access and Inclusion if you have a disability, Specific Learning Disorder or health condition (including mental health condition), are pregnant or breastfeeding or are caring for a person with a disability, and require support in accessing your studies.
         ◦ Kulbardi Aboriginal Centre provides support for Aboriginal and Torres Strait Islander students.
 #### 1.5.4 Key dates and considerations for withdrawing from this unit
