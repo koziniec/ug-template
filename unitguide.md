@@ -239,10 +239,10 @@ Learning resources within the [myMurdoch Learning](https://goto.murdoch.edu.au/m
 1. integrated within the sections and learning activities 
 and/or
 2. through tools such as:
-- [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings)
-- Teams
-- Echo360
-- PebblePad
+    - [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings)
+    - Teams
+    - Echo360
+    - PebblePad
 The specific types of learning resources that we use include
 
 ### 6.2 Essential learning resources
