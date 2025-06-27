@@ -298,14 +298,14 @@ See myMurdoch Learning for further details, such as instructions, communication,
 5.3 Academic integrity
 Murdoch University expects students and staff to pursue the highest standards of integrity in all academic activity. Academic integrity involves behaving ethically and honestly in scholarship and relies on respect for others’ ideas through proper acknowledgement and referencing of publications. 
 Academic misconduct is treated seriously and penalties may apply. 
-More information about academic integrity can be found at https://goto.murdoch.edu.au/AcademicIntegrity. To help you learn about academic integrity practices, all students are required to complete the Murdoch Academic Passport (MAP100). Please also note the library citation guide.
+More information about academic integrity can be found at https://goto.murdoch.edu.au/AcademicIntegrity. To help you learn about academic integrity practices, all students are required to complete the [Murdoch Academic Passport (MAP100)](https://goto.murdoch.edu.au/murdochacademicpassport). Please also note the [library citation guide](http://goto.murdoch.edu.au/referencing).
 5.3.1 Use of GenerativeAI
 Overall in this unit, you must follow the expectations around the use of Generative Artificial Intelligence (GenAI).
-    • All use of GenAI must be cited/referenced/acknowledged.
-    • If no specific expectations are provided, then you must assume GenAI use is not permitted for that assessment. Any suspected unauthorised use will be investigated for misconduct.
+- All use of GenAI must be cited/referenced/acknowledged.
+- If no specific expectations are provided, then you must assume GenAI use is not permitted for that assessment. Any suspected unauthorised use will be investigated for misconduct.
 See the assessment details above for any specific expectations.
 5.3.2 Text matching software (Turnitin)
-Murdoch University makes use of content matching software or other forms of comparison to identify unoriginal, incorrectly referenced, or uncited text. Where possible assessments will be submitted to Turnitin.com for the detection of plagiarism and the unauthorised use of artificial intelligence. All submitted assessments will be retained as source documents in the Turnitin.com reference database. You will be required to agree to the Turnitin End-User License Agreement when submitting.
+Murdoch University makes use of content matching software or other forms of comparison to identify unoriginal, incorrectly referenced, or uncited text. Where possible assessments will be submitted to Turnitin.com for the detection of plagiarism and the unauthorised use of artificial intelligence. All submitted assessments will be retained as source documents in the Turnitin.com reference database. You will be required to agree to the Turnitin [End-User License Agreement](https://guides.turnitin.com/hc/en-us/articles/29025093477901-Turnitin-End-User-License-Agreement) when submitting.
 Your Unit Coordinator may apply other processes to verify that your submitted assessment is your own work.
 5.3.3 This unit
 In this unit, we undertake these practices to assure academic integrity (including expectations for use of GenAI):
