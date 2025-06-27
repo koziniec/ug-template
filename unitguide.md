@@ -68,7 +68,7 @@ This includes:
 If you are considering [withdrawing](https://goto.murdoch.edu.au/Withdrawing) from this unit, see the Withdrawing page for general information and implications. 
 See the [Teaching Periods](https://goto.murdoch.edu.au/TeachingPeriodsCensusDates) page for implications of withdrawing at different times of the teaching period, including [Census Date](https://myanswers.custhelp.com/app/answers/detail/a_id/848/~/census-date), and search for the specific dates for your current teaching period. 
 #### 1.5.5 Where to find your class
-To find any location at Murdoch, use Murdoch Maps. 
+To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/). 
 
 ## 2 Contact details
 ### 2.1 Unit coordinator
