@@ -7,9 +7,9 @@
 # <unit code>
 # <unit title>
 
-**Teaching Period:** <!teaching period>
+**Teaching Period:** <teaching period>
 
-**Unit Coordinator:** <!unit coordinator>
+**Unit Coordinator:** <unit coordinator>
 
 <p align="right">
   <img src="img/50thLogo_Print_Primary_Seal_Gold.jpg" alt="Murdoch University 50th Gold Seal Logo" width="100"/>
