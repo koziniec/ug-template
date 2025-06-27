@@ -75,7 +75,7 @@ To find any location at Murdoch, use Murdoch Maps.
 **Name:** <!UC1 Name>
 **Preferred Name:** <!UC1 Preferred Name>
 <p align="right">
-  <img src="img/uc1-photo.png" alt="Unit Coordinator" width="400"/>
+  <img src="img/uc1-photo.png" alt="Unit Coordinator" width="100"/>
 </p>
 
 |           |                                                             |
@@ -89,7 +89,7 @@ To find any location at Murdoch, use Murdoch Maps.
 **Name:** <!UC2 Name>
 **Preferred Name:** <!UC2 Preferred Name>
 <p align="right">
-  <img src="img/uc2-photo.png" alt="Unit Coordinator" width="400"/>
+  <img src="img/uc2-photo.png" alt="Unit Coordinator" width="100"/>
 </p>
 
 |           |                                                             |
