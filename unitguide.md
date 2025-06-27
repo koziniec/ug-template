@@ -95,46 +95,27 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 | **Phone:**    | 555 1234                                                    |
 
 
-
-
-Name:
-
-Preferred name and pronouns:
-Name:	Pronouns:
-School:
-
-Campus:
-
-Email:
-
-Phone:
-
 ### 2.2 Teaching team
 You will be notified who your teaching team is at the beginning of the teaching period. The teaching team member will provide you with their contact details.
-Name:
+|               |                                                             |
+|---------------|-------------------------------------------------------------|
+| **Name:**     | UC Name                                                     |
+| **Preferred:**| UC Preferred Name                                           |
+| **Pronouns:** | UC Pronouns                                                 |
+| **School:**   | School of Information Technology                            |
+| **Campus:**   | South Street, Murdoch, Australia                            |
+| **Email:**    | Email@murdoch.edu.au                                        |
+| **Phone:**    | 555 1234                                                    |
 
-Preferred name and pronouns:
-Name:	Pronouns:
-Role:
-
-Campus:
-
-Email:
-
-Phone:
-
-
-Name:
-
-Preferred name and pronouns:
-Name:	Pronouns:
-Role:
-
-Campus:
-
-Email:
-
-Phone:
+|               |                                                             |
+|---------------|-------------------------------------------------------------|
+| **Name:**     | UC Name                                                     |
+| **Preferred:**| UC Preferred Name                                           |
+| **Pronouns:** | UC Pronouns                                                 |
+| **School:**   | School of Information Technology                            |
+| **Campus:**   | South Street, Murdoch, Australia                            |
+| **Email:**    | Email@murdoch.edu.au                                        |
+| **Phone:**    | 555 1234                                                    |
 
 
 ## 3 How to study this unit
