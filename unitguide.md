@@ -106,10 +106,10 @@ To find any location at Murdoch, use Murdoch Maps.
 
 <!-- llm-ignore:end -->
 
-**Name:** <!UC2 Name>  
-**Campus:** <!UC2 Email>
-**Email:** <!UC2 Email>  
-**Phone:** <!UC2 Phone>
+**Name:** UC2 Name  
+**Campus:** UC2 Email
+**Email:** UC2 Email
+**Phone:** UC2 Phone
 
 
 <!-- llm-ignore:start -->
