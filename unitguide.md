@@ -4,8 +4,8 @@
 </p>
 
 ## Unit Outline
-# <!unit code>
-# <!unit title>
+# <unit code>
+# <unit title>
 
 **Teaching Period:** <!teaching period>
 
