@@ -103,7 +103,7 @@ Email:
 
 Phone:
 
-2.2 Teaching team
+### 2.2 Teaching team
 You will be notified who your teaching team is at the beginning of the teaching period. The teaching team member will provide you with their contact details.
 Name:
 
@@ -131,18 +131,19 @@ Email:
 Phone:
 
 
-3 How to study this unit
+## 3 How to study this unit
 
-3.1 Approach to learning
-3.1.1 Learning approach underpinning unit
+### 3.1 Approach to learning
+#### 3.1.1 Learning approach underpinning unit
 
-3.1.2 Unit changes in response to student feedback
+#### 3.1.2 Unit changes in response to student feedback
 
 Previous students have provided us with feedback to improve this unit. Please help us continue this feedback cycle by completing your own unit survey which will open toward the end of teaching. You can find your Myfeedback surveys at http://myfeedback.murdoch.edu.au/. 
-3.2 Learning activities & requirements
+### 3.2 Learning activities & requirements
 
-3.2.1 #
-4 Unit Schedule
+#### 3.2.1 #
+
+## 4 Unit Schedule
 See [myMurdoch Learning](https://goto.murdoch.edu.au/LMS) for details of all learning activities and assessments. Go to [TeachingTimetables](http://goto.murdoch.edu.au/TeachingTimetables) or [myCalendar](https://goto.murdoch.edu.au/PersonalCalendar) to see your scheduled class times. 
 Timetable specifics subject to change. You will be notified of changes by the Teaching Team.
 Week
@@ -198,10 +199,10 @@ Assessment due date
 
 
 
-5 Assessments
+## 5 Assessments
 Assessment for this unit is conducted in accordance with the [Assessment Procedure](https://goto.murdoch.edu.au/AssessmentProcedure) and [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport).
 
-5.1 Assessment summary
+### 5.1 Assessment summary
 #
 Assessment Name
 Unit Learning 
@@ -240,8 +241,8 @@ and Time
 
 
 
-5.2 Assessment information
-5.2.1 Assessment 1 - name
+### 5.2 Assessment information
+#### 5.2.1 Assessment 1 - name
 ASSESSMENT DESCRIPTION
 
 HOW TO SUBMIT 
@@ -259,7 +260,7 @@ GUIDELINES for SUCCESS
 FURTHER DETAILS
 See myMurdoch Learning for further details, such as instructions, communication, resources, guides, exemplars and a descriptive rubric assessment tool.
 
-5.2.2 Assessment 2 - name
+#### 5.2.2 Assessment 2 - name
 ASSESSMENT DESCRIPTION
 
 HOW TO SUBMIT 
@@ -277,7 +278,7 @@ GUIDELINES for SUCCESS
 FURTHER DETAILS
 See myMurdoch Learning for further details, such as instructions, communication, resources, guides, exemplars and a descriptive rubric assessment tool.
 
-5.2.3 Assessment 3 - name
+#### 5.2.3 Assessment 3 - name
 ASSESSMENT DESCRIPTION
 
 HOW TO SUBMIT 
@@ -295,32 +296,33 @@ GUIDELINES for SUCCESS
 FURTHER DETAILS
 See myMurdoch Learning for further details, such as instructions, communication, resources, guides, exemplars and a descriptive rubric assessment tool.
 
-5.3 Academic integrity
+### 5.3 Academic integrity
 Murdoch University expects students and staff to pursue the highest standards of integrity in all academic activity. Academic integrity involves behaving ethically and honestly in scholarship and relies on respect for others’ ideas through proper acknowledgement and referencing of publications. 
 Academic misconduct is treated seriously and penalties may apply. 
 More information about academic integrity can be found at https://goto.murdoch.edu.au/AcademicIntegrity. To help you learn about academic integrity practices, all students are required to complete the [Murdoch Academic Passport (MAP100)](https://goto.murdoch.edu.au/murdochacademicpassport). Please also note the [library citation guide](http://goto.murdoch.edu.au/referencing).
-5.3.1 Use of GenerativeAI
+#### 5.3.1 Use of GenerativeAI
 Overall in this unit, you must follow the expectations around the use of Generative Artificial Intelligence (GenAI).
 - All use of GenAI must be cited/referenced/acknowledged.
 - If no specific expectations are provided, then you must assume GenAI use is not permitted for that assessment. Any suspected unauthorised use will be investigated for misconduct.
 See the assessment details above for any specific expectations.
-5.3.2 Text matching software (Turnitin)
+#### 5.3.2 Text matching software (Turnitin)
 Murdoch University makes use of content matching software or other forms of comparison to identify unoriginal, incorrectly referenced, or uncited text. Where possible assessments will be submitted to Turnitin.com for the detection of plagiarism and the unauthorised use of artificial intelligence. All submitted assessments will be retained as source documents in the Turnitin.com reference database. You will be required to agree to the Turnitin [End-User License Agreement](https://guides.turnitin.com/hc/en-us/articles/29025093477901-Turnitin-End-User-License-Agreement) when submitting.
 Your Unit Coordinator may apply other processes to verify that your submitted assessment is your own work.
-5.3.3 This unit
+#### 5.3.3 This unit
 In this unit, we undertake these practices to assure academic integrity (including expectations for use of GenAI):
-    • 
+- 
 
-5.4 Extensions and late submissions
+### 5.4 Extensions and late submissions
 This unit follows Murdoch policies and procedures, particularly the [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport) and [Assessment Procedure](https://goto.murdoch.edu.au/AssessmentProcedure), with regards to assessment submission and extensions, supplementary and deferred assessment, and other expectations.
 In this unit, extensions and late submissions follow these requirements:
 - Assessments submitted after the due date without approval will not be marked, and you will receive 0% for the assessment.
 - You can apply for an assessment extension without penalty. See the [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport) for all requirements.
 Students who feel that their disability, health condition or disability caring responsibilities may impact on their capacity to meet assessment submission are strongly advised to visit [Access and Inclusion](https://goto.murdoch.edu.au/accessibility-services) as early as possible to discuss potential needs and assistance.
-5.5 Determination of the final grade
+### 5.5 Determination of the final grade
 Refer to the [Grades Policy](https://goto.murdoch.edu.au/GradesPolicy) for information about marks and grades.
-6 Learning resources 
-6.1 All learning resources
+
+## 6 Learning resources 
+### 6.1 All learning resources
 Your learning resources and any updates are provided through myMurdoch Learning (LMS).
 Learning resources within the [myMurdoch Learning](https://goto.murdoch.edu.au/myMurdochLearning) online environment for this unit will be
 1. integrated within the sections and learning activities 
@@ -332,7 +334,7 @@ and/or
 - PebblePad
 The specific types of learning resources that we use include
 
-6.2 Essential learning resources
+### 6.2 Essential learning resources
 These are the learning resources that you should use:  
 Resource details
 Resource type
@@ -346,7 +348,7 @@ My Unit Readings
 
 Other resources and further recommended resources are in our myMurdoch Learning.
 
-7 Academic Advice and Student Support
+## 7 Academic Advice and Student Support
 
 Need guidance on study related issues?
 Use this flowchart or seek direct assistance from Student Support Services or MyMurdochAdvice.
