@@ -117,9 +117,7 @@ You will be notified who your teaching team is at the beginning of the teaching 
 | **Email:**    | Email@murdoch.edu.au                                        |
 | **Phone:**    | 555 1234                                                    |
 
-
 ## 3 How to study this unit
-
 ### 3.1 Approach to learning
 #### 3.1.1 Learning approach underpinning unit
 
@@ -133,10 +131,7 @@ Previous students have provided us with feedback to improve this unit. Please he
 ## 4 Unit Schedule
 See [myMurdoch Learning](https://goto.murdoch.edu.au/LMS) for details of all learning activities and assessments. Go to [TeachingTimetables](http://goto.murdoch.edu.au/TeachingTimetables) or [myCalendar](https://goto.murdoch.edu.au/PersonalCalendar) to see your scheduled class times. 
 Timetable specifics subject to change. You will be notified of changes by the Teaching Team.
-Week
-Date commencing
-Topic
-Assessment due date
+
 
 
 
