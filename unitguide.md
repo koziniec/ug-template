@@ -143,7 +143,7 @@ Previous students have provided us with feedback to improve this unit. Please he
 
 3.2.1 #
 4 Unit Schedule
-See myMurdoch Learning for details of all learning activities and assessments. Go to TeachingTimetables or myCalendar to see your scheduled class times. 
+See [myMurdoch Learning](https://goto.murdoch.edu.au/LMS) for details of all learning activities and assessments. Go to [TeachingTimetables](http://goto.murdoch.edu.au/TeachingTimetables) or [myCalendar](https://goto.murdoch.edu.au/PersonalCalendar) to see your scheduled class times. 
 Timetable specifics subject to change. You will be notified of changes by the Teaching Team.
 Week
 Date commencing
@@ -199,7 +199,7 @@ Assessment due date
 
 
 5 Assessments
-Assessment for this unit is conducted in accordance with the Assessment Procedure and Student Assessment Support Procedure.
+Assessment for this unit is conducted in accordance with the [Assessment Procedure](https://goto.murdoch.edu.au/AssessmentProcedure) and [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport).
 
 5.1 Assessment summary
 #
