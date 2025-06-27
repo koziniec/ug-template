@@ -73,34 +73,24 @@ To find any location at Murdoch, use Murdoch Maps.
 ## 2 Contact details
 ### 2.1 Unit coordinator
 
-
-
-**Name:** <!UC1 Name>
-
-**Preferred Name:** <!UC1 Preferred Name>
-
 |          |  <img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |
 |-----------|-------------------------------------------------------------|
-| Name:     | <!UC Name>                                                  |
-| Preferred:| <!UC Preferred Name>                                        |
+| Name:     | UC Name                                                     |
+| Preferred:| UC Preferred Name                                           |
 | School:   | School of Information Technology                            |
 | Campus:   | South Street, Murdoch, Australia                            |
-| Email:    | <!UC Email>                                                 |
-| Phone:    | <!UC Campus>                                                |
+| Email:    | Email@murdoch.edu.au                                        |
+| Phone:    | 555 1234                                                    |
 
 
-<img src="img/uc2-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/>
-
-**Name:** <!UC2 Name><br>
-**Preferred Name:** <!UC2 Preferred Name>
-
-|           |                                                             |
+|          |  <img src="img/uc2-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |
 |-----------|-------------------------------------------------------------|
-| School:   | <!UC School>                                                |
-| Campus:   | <!UC Campus>                                                |
-| Email:    | <!UC Email>                                                 |
-| Phone:    | <!UC Campus>                                                |
-
+| Name:     | UC Name                                                     |
+| Preferred:| UC Preferred Name                                           |
+| School:   | School of Information Technology                            |
+| Campus:   | South Street, Murdoch, Australia                            |
+| Email:    | Email@murdoch.edu.au                                        |
+| Phone:    | 555 1234                                                    |
 
 
 
