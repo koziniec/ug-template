@@ -289,7 +289,10 @@ Other resources and further recommended resources are in our myMurdoch Learning.
 
 ***To further escalate an appeal or complaint, contact the Associate Dean Learning and Teaching and/or see Complaints and Appeals for formal appeals procedures.***
 
-**STUDENT SUPPORT SERVICES:** https://goto.murdoch.edu.au/supportservices 
+**STUDENT SUPPORT SERVICES:** https://goto.murdoch.edu.au/supportservices
+
 **LEARNING AND STUDY SUPPORT:** https://goto.murdoch.edu.au/learningstudy 
+
 **MYMURDOCH ADVICE:** https://goto.murdoch.edu.au/mymurdochadvice 
+
 **COMPLAINTS AND APPEALS:** https://goto.murdoch.edu.au/ComplaintsAppeals 
