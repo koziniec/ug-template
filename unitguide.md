@@ -77,6 +77,7 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 |---------------|-------------------------------------------------------------|
 | **Name:**     | UC Name                                                     |
 | **Preferred:**| UC Preferred Name                                           |
+| **Pronouns:** | UC Pronouns                                                 |
 | **School:**   | School of Information Technology                            |
 | **Campus:**   | South Street, Murdoch, Australia                            |
 | **Email:**    | Email@murdoch.edu.au                                        |
@@ -87,6 +88,7 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 |---------------|-------------------------------------------------------------|
 | **Name:**     | UC Name                                                     |
 | **Preferred:**| UC Preferred Name                                           |
+| **Pronouns:** | UC Pronouns                                                 |
 | **School:**   | School of Information Technology                            |
 | **Campus:**   | South Street, Murdoch, Australia                            |
 | **Email:**    | Email@murdoch.edu.au                                        |
