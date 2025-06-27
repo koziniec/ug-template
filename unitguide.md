@@ -52,7 +52,7 @@ As an institution, the strategic themes of sustainability, equity, diversity & i
 ### 1.5 General guidance and requirements
 #### 1.5.1 Inclusivity Statement
 Murdoch University strives to be a place of belonging for all staff and students. We are committed to supporting and celebrating all community members including all abilities, ethnicities or religions, sexual or gender identities. Homophobia, transphobia, racism, and ablism are not tolerated. 
-For help and support, please see information and contacts in Health & wellbeing in myMurdoch.
+For help and support, please see information and contacts in [Health & wellbeing](https://www.murdoch.edu.au/mymurdoch/support-advice/health-wellbeing) in myMurdoch.
 #### 1.5.2 In case of unforeseen disruption to learning and teaching
 A university or campus wide disruption may occur due to natural, political, or other human crisis (e.g., COVID-19). Where it impacts our learning, teaching, and assessment plans, then we will communicate changes relevant to this unit via myMurdoch Learning. Also pay attention to student announcements and myMurdoch for university wide information. 
 For individual needs, consult with Access and Inclusion to see if an individual Access and Inclusion (MyAccess) plan is appropriate, or for specific assessment item adjustments, see your Unit Coordinator. 
