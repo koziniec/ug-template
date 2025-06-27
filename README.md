@@ -1,5 +1,19 @@
-# ug-template
-A template for a Markdown based unit uide for Murdoch University
+<!-- llm-ignore:start -->
+<p align="right">
+  <img src="img/MU_wordmark_2021_red_RGB.png" alt="Murdoch University Logo" width="400"/>
+</p>
+
+## Unit Outline
+# <!unit code>
+# <!unit title>
+
+**Teaching Period:** <!teaching period>
+
+**Unit Coordinator:** <!unit coordinator>
+
+<p align="right">
+  <img src="img/50thLogo_Print_Primary_Seal_Gold.jpg" alt="Murdoch University 50th Gold Seal Logo" width="100"/>
+</p>
 
 ## 1 Unit Details
 Welcome to:
@@ -18,8 +32,6 @@ This unit enables you to demonstrate your achievement of the following unit lear
 | 3.                                 |                                                  |
 | 4.                                 |                                                  |
 | 5.                                 |                                                  |
-
-
 
 ### 1.3 Graduate attributes 
 This unit will contribute to the development of the following Graduate Attributes:
