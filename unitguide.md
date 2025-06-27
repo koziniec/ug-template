@@ -243,16 +243,21 @@ and/or
     - Teams
     - Echo360
     - PebblePad
-The specific types of learning resources that we use include
+
+The specific types of learning resources that we use include:
 
 ### 6.2 Essential learning resources
 These are the learning resources that you should use:  
-Resource details
-Resource type
-Available
-Unit resources
-Various
-My Unit Readings
+
+
+
+
+
+
+| Resource details                   | Resource type                             | Available                  | 
+|------------------------------------|-------------------------------------------|----------------------------|
+| Unit resources                     | Various               | [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings) |
+|                                    |                                           |                            |
 
 
 
