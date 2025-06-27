@@ -312,24 +312,24 @@ In this unit, we undertake these practices to assure academic integrity (includi
     • 
 
 5.4 Extensions and late submissions
-This unit follows Murdoch policies and procedures, particularly the Student Assessment Support Procedure and Assessment Procedure, with regards to assessment submission and extensions, supplementary and deferred assessment, and other expectations.
+This unit follows Murdoch policies and procedures, particularly the [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport) and [Assessment Procedure](https://goto.murdoch.edu.au/AssessmentProcedure), with regards to assessment submission and extensions, supplementary and deferred assessment, and other expectations.
 In this unit, extensions and late submissions follow these requirements:
-    • Assessments submitted after the due date without approval will not be marked, and you will receive 0% for the assessment.
-    • You can apply for an assessment extension without penalty. See the Student Assessment Support Procedure for all requirements.
-Students who feel that their disability, health condition or disability caring responsibilities may impact on their capacity to meet assessment submission are strongly advised to visit Access and Inclusion as early as possible to discuss potential needs and assistance.
+- Assessments submitted after the due date without approval will not be marked, and you will receive 0% for the assessment.
+- You can apply for an assessment extension without penalty. See the [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport) for all requirements.
+Students who feel that their disability, health condition or disability caring responsibilities may impact on their capacity to meet assessment submission are strongly advised to visit [Access and Inclusion](https://goto.murdoch.edu.au/accessibility-services) as early as possible to discuss potential needs and assistance.
 5.5 Determination of the final grade
-Refer to the Grades Policy for information about marks and grades.
+Refer to the [Grades Policy](https://goto.murdoch.edu.au/GradesPolicy) for information about marks and grades.
 6 Learning resources 
 6.1 All learning resources
 Your learning resources and any updates are provided through myMurdoch Learning (LMS).
-Learning resources within the myMurdoch Learning online environment for this unit will be
-    1. integrated within the sections and learning activities 
+Learning resources within the [myMurdoch Learning](https://goto.murdoch.edu.au/myMurdochLearning) online environment for this unit will be
+1. integrated within the sections and learning activities 
 and/or
-    2. through tools such as:
-        ◦ My Unit Readings
-        ◦ Teams
-        ◦ Echo360
-        ◦ PebblePad
+2. through tools such as:
+- [My Unit Readings](http://goto.murdoch.edu.au/MyUnitReadings)
+- Teams
+- Echo360
+- PebblePad
 The specific types of learning resources that we use include
 
 6.2 Essential learning resources
@@ -352,31 +352,31 @@ Need guidance on study related issues?
 Use this flowchart or seek direct assistance from Student Support Services or MyMurdochAdvice.
 
 Contact your Tutor if you have . . .
-    • Questions about content covered in tutorials or practical sessions. 
-    • General questions about completing assessments.
-    • Concerns about another student or your learning needs.
-    • Positive and constructive feedback.
+- Questions about content covered in tutorials or practical sessions. 
+- General questions about completing assessments.
+- Concerns about another student or your learning needs.
+- Positive and constructive feedback.
 
 
 Contact your Unit Coordinator if you have . . .
-    • Questions about unit content, assessments, attendance or tutorial times. 
-    • Questions on marked assessments. 
-    • Request a re-mark/review of a marked assessment.
-    • Academic issues with your learning in this unit.
-    • Positive and constructive feedback.
+- Questions about unit content, assessments, attendance or tutorial times. 
+- Questions on marked assessments. 
+- Request a re-mark/review of a marked assessment.
+- Academic issues with your learning in this unit.
+- Positive and constructive feedback.
 
 
 Contact your Academic Chair if you have . . .
-    • Academic and assessment issues that haven’t been adequately addressed by the Unit Coordinator. 
-    • Academic issues relating to progression through your degree, withdrawal from a unit or intermission.
-    • Positive and constructive feedback.
+- Academic and assessment issues that haven’t been adequately addressed by the Unit Coordinator. 
+- Academic issues relating to progression through your degree, withdrawal from a unit or intermission.
+- Positive and constructive feedback.
 
 
 Contact your Head of School if you have . . .
-    • Academic, assessment or other issues that haven’t been adequately addressed by your academic chair or you aren’t comfortable discussing with your Academic Chair.
-    • Formal request for re-mark/review in accordance with policy and procedure, where Unit Coordinator has not undertaken.
-    • Complaints or appeals relating to your studies that haven’t been adequately addressed. Visit Complaints and Appeals for more advice.
-    • Positive and constructive feedback.
+- Academic, assessment or other issues that haven’t been adequately addressed by your academic chair or you aren’t comfortable discussing with your Academic Chair.
+- Formal request for re-mark/review in accordance with policy and procedure, where Unit Coordinator has not undertaken.
+- Complaints or appeals relating to your studies that haven’t been adequately addressed. Visit Complaints and Appeals for more advice.
+- Positive and constructive feedback.
 
 
 To further escalate an appeal or complaint, contact the Associate Dean Learning and Teaching 
