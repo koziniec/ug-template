@@ -78,7 +78,7 @@ To find any location at Murdoch, use Murdoch Maps.
   <img src="img/uc1-photo.png" alt="Unit Coordinator" width="400"/>
 </p>
 
-| Unit Lear | Course Learning Outcomes                                    |
+|           |                                                             |
 |-----------|-------------------------------------------------------------|
 | School:   | <!UC School>                                                |
 | Campus:   | <!UC Campus>                                                |
@@ -92,6 +92,7 @@ To find any location at Murdoch, use Murdoch Maps.
   <img src="img/uc2-photo.png" alt="Unit Coordinator" width="400"/>
 </p>
 
+|           |                                                             |
 |-----------|-------------------------------------------------------------|
 | School:   | <!UC School>                                                |
 | Campus:   | <!UC Campus>                                                |
