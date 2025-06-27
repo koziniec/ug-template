@@ -72,23 +72,26 @@ To find any location at Murdoch, use Murdoch Maps.
 
 ## 2 Contact details
 ### 2.1 Unit coordinator
-Name:
-
-Insert picture here
-Preferred name and pronouns:
-Name:	Pronouns:
-
-School:
-
-
-Campus:
-
-
-Email:
+**Name:** <!UC1 Name>
+**Preferred Name:** <!UC1 Preferred Name>
+<p align="right">
+  <img src="img/uc1-photo.png" alt="Unit Coordinator" width="400"/>
+</p>
+| School:   |                                                |
+| Campus:   |                                                |
+| Email:    |                                                |
+| Phone:    |                                                |
 
 
-Phone:
-
+**Name:** <!UC2 Name>
+**Preferred Name:** <!UC2 Preferred Name>
+<p align="right">
+  <img src="img/uc2-photo.png" alt="Unit Coordinator" width="400"/>
+</p>
+| School:   |                                                |
+| Campus:   |                                                |
+| Email:    |                                                |
+| Phone:    |                                                |
 
 
 Name:
