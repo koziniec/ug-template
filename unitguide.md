@@ -62,11 +62,11 @@ This includes:
 - [Student admin](https://goto.murdoch.edu.au/StudentAdmin), [Exams](https://goto.murdoch.edu.au/Examinations), [Policies](https://goto.murdoch.edu.au/Policies), [Key dates](https://goto.murdoch.edu.au/DatesDeadlines), [Complaints and appeals](https://goto.murdoch.edu.au/ComplaintsAppeals)
 - [Learning and study](https://goto.murdoch.edu.au/learningstudy) support, including information about Academic Integrity and Murdoch Academic Passport
 - [Health and wellbeing](https://www.murdoch.edu.au/mymurdoch/support-advice/health-wellbeing) information, including Accessibility services, Medical and counselling services, Aboriginal and Torres Strait Islander support, and Sexuality and gender diversity support
-    - Contact Access and Inclusion if you have a disability, Specific Learning Disorder or health condition (including mental health condition), are pregnant or breastfeeding or are caring for a person with a disability, and require support in accessing your studies.
+    - Contact [Access and Inclusion](https://goto.murdoch.edu.au/accessibility-services) if you have a disability, Specific Learning Disorder or health condition (including mental health condition), are pregnant or breastfeeding or are caring for a person with a disability, and require support in accessing your studies.
     - [Kulbardi Aboriginal](https://goto.murdoch.edu.au/Kulbardi) Centre provides support for Aboriginal and Torres Strait Islander students.
 #### 1.5.4 Key dates and considerations for withdrawing from this unit
-If you are considering withdrawing from this unit, see the Withdrawing page for general information and implications. 
-See the Teaching Periods page for implications of withdrawing at different times of the teaching period, including Census Date, and search for the specific dates for your current teaching period. 
+If you are considering [withdrawing](https://goto.murdoch.edu.au/Withdrawing) from this unit, see the Withdrawing page for general information and implications. 
+See the [Teaching Periods](https://goto.murdoch.edu.au/TeachingPeriodsCensusDates) page for implications of withdrawing at different times of the teaching period, including [Census Date](https://myanswers.custhelp.com/app/answers/detail/a_id/848/~/census-date), and search for the specific dates for your current teaching period. 
 #### 1.5.5 Where to find your class
 To find any location at Murdoch, use Murdoch Maps. 
 
