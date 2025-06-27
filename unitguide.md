@@ -259,8 +259,8 @@ These are the learning resources that you should use:
 Other resources and further recommended resources are in our myMurdoch Learning.
 
 ## 7 Academic Advice and Student Support
-
 **Need guidance on study related issues?**
+
 **Use this flowchart or seek direct assistance from Student Support Services or MyMurdochAdvice.**
 
 ### Contact your *Tutor* if you have:
