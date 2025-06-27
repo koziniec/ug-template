@@ -152,33 +152,6 @@ Assessment for this unit is conducted in accordance with the [Assessment Procedu
 |   |                 |                        |          |                    |                   |
 |   |                 |                        |          |                    |                   |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 5.2 Assessment information
 #### 5.2.1 Assessment 1 - name
 ASSESSMENT DESCRIPTION
@@ -248,7 +221,7 @@ Murdoch University makes use of content matching software or other forms of comp
 Your Unit Coordinator may apply other processes to verify that your submitted assessment is your own work.
 #### 5.3.3 This unit
 In this unit, we undertake these practices to assure academic integrity (including expectations for use of GenAI):
-- 
+- point 1
 
 ### 5.4 Extensions and late submissions
 This unit follows Murdoch policies and procedures, particularly the [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport) and [Assessment Procedure](https://goto.murdoch.edu.au/AssessmentProcedure), with regards to assessment submission and extensions, supplementary and deferred assessment, and other expectations.
