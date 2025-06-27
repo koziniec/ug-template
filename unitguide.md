@@ -140,64 +140,17 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 | 3    |                             | Topic 3 title                              |                           |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 5 Assessments
 Assessment for this unit is conducted in accordance with the [Assessment Procedure](https://goto.murdoch.edu.au/AssessmentProcedure) and [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport).
 
 ### 5.1 Assessment summary
-#
-Assessment Name
-Unit Learning 
-Outcomes
-Accreditation Standards
-Weight %
-Individual or Group
-Due Date
-and Time
 
+| # | Assessment Name | Unit Learning Outcomes | Weight % |Individual or Group | Due Date and Time |
+|---|-----------------|------------------------|----------|--------------------|-------------------|
+|   |                 |                        |          |                    |                   |
+|   |                 |                        |          |                    |                   |
+|   |                 |                        |          |                    |                   |
+|   |                 |                        |          |                    |                   |
 
 
 
