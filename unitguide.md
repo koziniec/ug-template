@@ -77,10 +77,10 @@ To find any location at Murdoch, use Murdoch Maps.
 <p align="right">
   <img src="img/uc1-photo.png" alt="Unit Coordinator" width="400"/>
 </p>
-| School:   |                                                |
-| Campus:   |                                                |
-| Email:    |                                                |
-| Phone:    |                                                |
+| School:   | <!UC School>                                                |
+| Campus:   | <!UC Campus>                                                |
+| Email:    | <!UC Email>                                                 |
+| Phone:    | <!UC Campus>                                                |
 
 
 **Name:** <!UC2 Name>
@@ -88,10 +88,10 @@ To find any location at Murdoch, use Murdoch Maps.
 <p align="right">
   <img src="img/uc2-photo.png" alt="Unit Coordinator" width="400"/>
 </p>
-| School:   |                                                |
-| Campus:   |                                                |
-| Email:    |                                                |
-| Phone:    |                                                |
+| School:   | <!UC School>                                                |
+| Campus:   | <!UC Campus>                                                |
+| Email:    | <!UC Email>                                                 |
+| Phone:    | <!UC Campus>                                                |
 
 
 Name:
