@@ -57,7 +57,7 @@ For help and support, please see information and contacts in [Health & wellbeing
 A university or campus wide disruption may occur due to natural, political, or other human crisis (e.g., COVID-19). Where it impacts our learning, teaching, and assessment plans, then we will communicate changes relevant to this unit via myMurdoch Learning. Also pay attention to student announcements and myMurdoch for university wide information. 
 For individual needs, consult with [Access and Inclusion](https://goto.murdoch.edu.au/accessibility-services) to see if an individual Access and Inclusion (MyAccess) plan is appropriate, or for specific assessment item adjustments, see your Unit Coordinator. 
 #### 1.5.3 Where to get help for your learning success and wellbeing
-Please refer to [Support & Advice](https://www.murdoch.edu.au/mymurdoch/support-advice) via myMurdoch for all the information you need for your studies.
+Please refer to [Support & Advice](https://www.murdoch.edu.au/mymurdoch/support-advice) via [myMurdoch](https://www.murdoch.edu.au/mymurdoch) for all the information you need for your studies.
 This includes:
     • Student admin, Exams, Policies, Key dates, Complaints and appeals
     • Learning and study support, including information about Academic Integrity and Murdoch Academic Passport
