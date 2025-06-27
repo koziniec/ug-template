@@ -81,8 +81,8 @@ To find any location at Murdoch, use Murdoch Maps.
 
 |          |   <img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/>   |
 |-----------|-------------------------------------------------------------|
-| School:   | <!UC School>                                                |
-| Campus:   | <!UC Campus>                                                |
+| School:   | School of Information Technology                            |
+| Campus:   | South Street, Murdoch, Australia                            |
 | Email:    | <!UC Email>                                                 |
 | Phone:    | <!UC Campus>                                                |
 
