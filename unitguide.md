@@ -86,13 +86,10 @@ To find any location at Murdoch, use Murdoch Maps.
 | Phone:    | <!UC Campus>                                                |
 
 
+<img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/>
 **Name:** <!UC2 Name>
 **Preferred Name:** <!UC2 Preferred Name>
-
-
-|           |  <p align="right">
-  <img src="img/uc2-photo.png" alt="Unit Coordinator" width="100"/>
-</p>                                                           |
+|           |                                                             |
 |-----------|-------------------------------------------------------------|
 | School:   | <!UC School>                                                |
 | Campus:   | <!UC Campus>                                                |
