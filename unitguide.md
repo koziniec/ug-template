@@ -14,11 +14,12 @@
 <p align="right">
   <img src="img/50thLogo_Print_Primary_Seal_Gold.jpg" alt="Murdoch University 50th Gold Seal Logo" width="100"/>
 </p>
+<!-- llm-ignore:end -->
 
 ## 1 Unit Details
 Welcome to:
-Unit Code
-Unit Name
+Unit Code: 
+Unit Name:
 
 ### 1.1 Unit Overview
 
@@ -34,8 +35,7 @@ This unit enables you to demonstrate your achievement of the following unit lear
 | 5.                                 |                                                  |
 
 ### 1.3 Graduate attributes 
-This unit will contribute to the development of the following [Graduate Attributes](https://www.murdoch.edu.au/mymurdoch/support-advice/learning-study/graduate-attributes)
-:
+This unit will contribute to the development of the following [Graduate Attributes](https://www.murdoch.edu.au/mymurdoch/support-advice/learning-study/graduate-attributes):
 - Communication
 - Critical and creative thinking
 - Social interaction
@@ -79,8 +79,10 @@ To find any location at Murdoch, use Murdoch Maps.
 
 **Preferred Name:** <!UC1 Preferred Name>
 
-|          |  <p align="right"> <img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> </p>  |
+|          |  <img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |
 |-----------|-------------------------------------------------------------|
+| Name:     | <!UC Name>                                                  |
+| Preferred:| <!UC Preferred Name>                                        |
 | School:   | School of Information Technology                            |
 | Campus:   | South Street, Murdoch, Australia                            |
 | Email:    | <!UC Email>                                                 |
