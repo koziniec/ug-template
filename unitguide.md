@@ -34,7 +34,7 @@ This unit enables you to demonstrate your achievement of the following unit lear
 | 5.                                 |                                                  |
 
 ### 1.3 Graduate attributes 
-This unit will contribute to the development of the following [Graduate Attributes](https://www.murdoch.edu.au/about-us/strategic-priorities/graduate-attributes)
+This unit will contribute to the development of the following [Graduate Attributes](https://www.murdoch.edu.au/mymurdoch/support-advice/learning-study/graduate-attributes)
 :
 - Communication
 - Critical and creative thinking
