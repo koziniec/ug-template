@@ -133,9 +133,11 @@ See [myMurdoch Learning](https://goto.murdoch.edu.au/LMS) for details of all lea
 
 Timetable specifics subject to change. You will be notified of changes by the Teaching Team.
 
-
-
-
+| Week | Date commencing             | Topic                                      | Assessment due date       |
+|------|-----------------------------|--------------------------------------------|---------------------------|
+| 1    |                             | Topic 1 title                              |                           |
+| 2    |                             | Topic 2 title                              |                           |
+| 3    |                             | Topic 3 title                              |                           |
 
 
 
