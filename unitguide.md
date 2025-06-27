@@ -44,16 +44,18 @@ This unit will contribute to the development of the following Graduate Attribute
     • Global perspective
     • Interdisciplinarity
     • In-depth knowledge of a field of study
-1.4 Strategic themes
+    
+### 1.4 Strategic themes
 As an institution, the strategic themes of sustainability, equity, diversity & inclusion, and first nations guide and shape much of our activity.
-1.5 General guidance and requirements
-1.5.1 Inclusivity Statement
+
+### 1.5 General guidance and requirements
+#### 1.5.1 Inclusivity Statement
 Murdoch University strives to be a place of belonging for all staff and students. We are committed to supporting and celebrating all community members including all abilities, ethnicities or religions, sexual or gender identities. Homophobia, transphobia, racism, and ablism are not tolerated. 
 For help and support, please see information and contacts in Health & wellbeing in myMurdoch.
-1.5.2 In case of unforeseen disruption to learning and teaching
+#### 1.5.2 In case of unforeseen disruption to learning and teaching
 A university or campus wide disruption may occur due to natural, political, or other human crisis (e.g., COVID-19). Where it impacts our learning, teaching, and assessment plans, then we will communicate changes relevant to this unit via myMurdoch Learning. Also pay attention to student announcements and myMurdoch for university wide information. 
 For individual needs, consult with Access and Inclusion to see if an individual Access and Inclusion (MyAccess) plan is appropriate, or for specific assessment item adjustments, see your Unit Coordinator. 
-1.5.3 Where to get help for your learning success and wellbeing
+#### 1.5.3 Where to get help for your learning success and wellbeing
 Please refer to Support & Advice via myMurdoch for all the information you need for your studies.
 This includes:
     • Student admin, Exams, Policies, Key dates, Complaints and appeals
@@ -61,13 +63,14 @@ This includes:
     • Health and wellbeing information, including Accessibility services, Medical and counselling services, Aboriginal and Torres Strait Islander support, and Sexuality and gender diversity support
         ◦ Contact Access and Inclusion if you have a disability, Specific Learning Disorder or health condition (including mental health condition), are pregnant or breastfeeding or are caring for a person with a disability, and require support in accessing your studies.
         ◦ Kulbardi Aboriginal Centre provides support for Aboriginal and Torres Strait Islander students.
-1.5.4 Key dates and considerations for withdrawing from this unit
+#### 1.5.4 Key dates and considerations for withdrawing from this unit
 If you are considering withdrawing from this unit, see the Withdrawing page for general information and implications. 
 See the Teaching Periods page for implications of withdrawing at different times of the teaching period, including Census Date, and search for the specific dates for your current teaching period. 
-1.5.5 Where to find your class
+#### 1.5.5 Where to find your class
 To find any location at Murdoch, use Murdoch Maps. 
-2 Contact details
-2.1 Unit coordinator
+
+## 2 Contact details
+### 2.1 Unit coordinator
 Name:
 
 Insert picture here
