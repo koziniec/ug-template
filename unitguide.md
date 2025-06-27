@@ -74,7 +74,9 @@ To find any location at Murdoch, use Murdoch Maps.
 ### 2.1 Unit coordinator
 
 <img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/>
-**Name:** <!UC1 Name><br>
+
+**Name:** <!UC1 Name>
+
 **Preferred Name:** <!UC1 Preferred Name>
 
 |           |                                                             |
@@ -86,6 +88,7 @@ To find any location at Murdoch, use Murdoch Maps.
 
 
 <img src="img/uc2-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/>
+
 **Name:** <!UC2 Name><br>
 **Preferred Name:** <!UC2 Preferred Name>
 
