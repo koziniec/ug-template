@@ -77,7 +77,7 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 ## 2 Contact details
 ### 2.1 Unit coordinator
 
-|               |  <img src="img/uc2-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |
+|<img src="img/uc2-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |  |
 |---------------|-------------------------------------------------------------|
 | **Name:**     | UC Name                                                     |
 | **Preferred:**| UC Preferred Name                                           |
@@ -88,7 +88,7 @@ To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/
 | **Phone:**    | 555 1234                                                    |
 
 
-|               |  <img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/> |
+|<img src="img/uc1-photo.png" alt="Name photo" width="100" style="border: 1px solid #ccc; padding: 4px;"/>|   |
 |---------------|-------------------------------------------------------------|
 | **Name:**     | UC Name                                                     |
 | **Preferred:**| UC Preferred Name                                           |
