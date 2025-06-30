@@ -16,6 +16,8 @@
 </p>
 <!-- llm-ignore:end -->
 
+---
+
 ## 1 Unit Details
 Welcome to:
 Unit Code: 
@@ -70,6 +72,8 @@ See the [Teaching Periods](https://goto.murdoch.edu.au/TeachingPeriodsCensusDate
 #### 1.5.5 Where to find your class
 To find any location at Murdoch, use [Murdoch Maps](https://maps.murdoch.edu.au/). 
 
+---
+
 ## 2 Contact details
 ### 2.1 Unit coordinator
 
@@ -117,6 +121,8 @@ You will be notified who your teaching team is at the beginning of the teaching 
 | **Email:**    | Email@murdoch.edu.au                                        |
 | **Phone:**    | 555 1234                                                    |
 
+---
+
 ## 3 How to study this unit
 ### 3.1 Approach to learning
 #### 3.1.1 Learning approach underpinning unit
@@ -127,6 +133,8 @@ Previous students have provided us with feedback to improve this unit. Please he
 ### 3.2 Learning activities & requirements
 
 #### 3.2.1 #
+
+---
 
 ## 4 Unit Schedule
 See [myMurdoch Learning](https://goto.murdoch.edu.au/LMS) for details of all learning activities and assessments. Go to [TeachingTimetables](http://goto.murdoch.edu.au/TeachingTimetables) or [myCalendar](https://goto.murdoch.edu.au/PersonalCalendar) to see your scheduled class times.
@@ -139,6 +147,7 @@ Timetable specifics subject to change. You will be notified of changes by the Te
 | 2    |                             | Topic 2 title                              |                           |
 | 3    |                             | Topic 3 title                              |                           |
 
+---
 
 ## 5 Assessments
 Assessment for this unit is conducted in accordance with the [Assessment Procedure](https://goto.murdoch.edu.au/AssessmentProcedure) and [Student Assessment Support Procedure](https://goto.murdoch.edu.au/StudentAssessmentSupport).
@@ -232,6 +241,8 @@ Students who feel that their disability, health condition or disability caring r
 ### 5.5 Determination of the final grade
 Refer to the [Grades Policy](https://goto.murdoch.edu.au/GradesPolicy) for information about marks and grades.
 
+---
+
 ## 6 Learning resources 
 ### 6.1 All learning resources
 Your learning resources and any updates are provided through myMurdoch Learning (LMS).
@@ -257,6 +268,8 @@ These are the learning resources that you should use:
 |                                    |                                           |                            |
 
 Other resources and further recommended resources are in our myMurdoch Learning.
+
+---
 
 ## 7 Academic Advice and Student Support
 **Need guidance on study related issues?**
